@@ -37,6 +37,6 @@ HTML, CSS, JavaScript (`fetch()`), Supabase REST API, Git, GitHub Pages.
 - `setup.sql` – SQL used to create the `tasks` table and RLS policies
 - `contribution.html`, `contribution.json` – added by my project partner via Pull Request
 
-## Security note
-
-Only the public Supabase publishable key is included. No secret keys, service role keys or database passwords are stored in this repository. The database contains demonstration data only.
+## Team collaboration
+- My Pull Request to my partner's repo: https://github.com/vistula-team-project-71519/vistula-task-manager/pull/1
+- Partner's Pull Request merged into my repo: https://github.com/vistula-team-project-72346/vistula-task-manager/pull/1
